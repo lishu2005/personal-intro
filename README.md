@@ -1,5 +1,5 @@
 # personal-intro
-I am currently studying microelectronics at the College of Electronics and Information Engineering, Tongji University. 
+I am currently studying microelectronics at the School of Electronics and Information Engineering, Tongji University. 
 
 I will share some of the course knowledge I learned
 
